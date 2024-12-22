@@ -25,10 +25,6 @@ A simple command-line interface (CLI) tool to fetch and display the recent activ
 ## How to Use
 
 1. **Clone the Repository**  
-   ```bash
-   git clone <repository-url>
-   cd GitHubActivityCLI
-   ```
 
 2. **Build the Project**  
    ```bash

@@ -39,16 +39,13 @@ A simple command-line interface (CLI) tool to fetch and display the recent activ
 
    Example:
    ```bash
-   dotnet run kamranahmedse
+   dotnet run matin-as
    ```
 
 4. **Output Example**  
    ```bash
-   Fetching activity for user: kamranahmedse...
+   Fetching activity for user: matin-as...
    Recent Activity:
-   - Pushed commits to kamranahmedse/developer-roadmap
-   - Starred kamranahmedse/developer-roadmap
-   - Opened a new issue in kamranahmedse/developer-roadmap
    ```
 
 ---
